@@ -7,7 +7,7 @@ An ambitious **ICS Student** and passionate **Data Science Trainee** at SMIT. I 
 ### 💻 About Me
 - 🎓 **Education:** Intermediate in Computer Science (ICS)
 - 🚀 **Specialization:** Data Science & Analytics Trainee at **Saylani Mass IT Training (SMIT)**
-- 💼 **Experience:** Data Science Intern at **Alpha Code**, **Dev Alpha**, and **Pak Technologies**
+- 💼 **Experience:** Data Science Intern at **Alpha Code**, **Dev Alpha**, and **Arch Technologies**
 - 🎯 **Goal:** To build impactful, data-driven AI solutions and predictive models.
 
 ---
